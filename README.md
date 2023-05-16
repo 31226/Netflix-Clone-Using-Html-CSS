@@ -2,6 +2,9 @@
 
 <h1>This webpage is a clone of Netflix, providing a similar user interface</h1>
 
+<br><br>
+Output: <br>
+
 
 
 ![Screenshot (123)](https://github.com/31226/Netflix-Clone-Using-Html-CSS/assets/133737100/cf1831ff-ab98-4ec2-810d-a8022ab60510)
